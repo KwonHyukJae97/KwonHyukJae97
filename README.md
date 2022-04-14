@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/95010852/163294875-c94f1612-54b0-404d-a057-ab03dd0a1dee.png">
+</div>
 <div align="center">
  <h2> ⚡ Skills </h2>
 
